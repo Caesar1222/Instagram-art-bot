@@ -13,11 +13,11 @@ foldername = str("Redditbot/")
 # print(date)
 #### Keys and Login Info ####
 redditbot = praw.Reddit(
-    client_id = "7KF0txiFFmW-vmhybJLt3g",
-    client_secret = "d1IUqAjcel3uOFE0O5jJhmSpCJk-Rw",
+    client_id = "YOUR_ID",
+    client_secret = "YOUR_SECRET",
     user_agent = "My user agent",
-    username = "Professional_Lead_94",
-    password = "Valeria30!"
+    username = "YOUR_USERNAME",
+    password = "YOUR_PASSWORD"
     )
 
 #### Subreddit Bot will be posting to ####
